@@ -1,0 +1,7 @@
+#+TITLE: Joel Haver's Oscars film challenge 3
+#+DATE: 12 March 2023
+#+startup: indent
+
+* Goal: make a star trek like thing with just myself
+- total improv
+- 

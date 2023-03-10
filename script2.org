@@ -1,0 +1,22 @@
+#+TITLE: Joel Haver's Oscars film challenge 2
+#+DATE: 12 March 2023
+#+startup: indent
+
+* Goal: make a funny film:tm: about a cube that tries to overthrow everything
+** 4 chars
+*** The Cube
+- like a default blender cube
+- created in the Geometric Laboratory to bring the world to an undefined ideal future
+- can go through wires
+- can move through fiber optic cables
+- can float
+- My size is inconsistent
+- end of arc:
+  - finds thier true purpose: preventing the big cube trying to compress the earth from crushing it
+  - 
+*** Joseph McBill
+- a true fighter
+- as many eyes as L's in his name
+- has taken as many L's as there are L's in his name
+*** The Bike
+- 
