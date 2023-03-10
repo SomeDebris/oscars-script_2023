@@ -1,0 +1,92 @@
+#+TITLE: Oscars script 2023
+#+DATE: 12 March 2023
+#+startup: indent
+
+* Goal: FRC and it what it does to someone
+- personal description of what FRC did to me
+- note: you gotta improvise a little during the not intro.
+  
+ 
+* Introduction
+[ Regional footage cut to music like I like to do ]
+[ CAM ]
+The FIRST Robotics Competition, or FRC, is a worldwide competition where high school students
+are tasked with making a 120 pound robot designed to play a specific game. A new game is revealed each
+year, so teams end up building a new robot every time!
+
+This competition has been going on since 1992, and the very first game was titled Maize Craze.
+Four robots where placed in a 16 by 16 foot square filled with a 1.5 inch thick layer of corn kernels.
+during the 2 minute round, each robot had to grab as many tennis balls as they could, which would
+score them more points.
+
+Nowadays, the games are played on a arena the size of a basketball court, the robots are bigger, and
+the number of participants is just unbelievable. Some of these things are well engineered machines!
+They move quick, shoot consistently,  (yes, the robots would shoot stuff. my god its magical)
+and are just so fun to watch.
+
+[ Steamworks crowd cheering ]
+
+In each game, robots are usually required to pick up a certain kind of
+object or two and then put them somewhere else. There's been games where robots...
+
+[ Hard Cut to black ]
+
+[ VO ]
+
+No nono, thats not what it feels like. no! we cant write it that way! so lets see
+
+[ Title: What FRC FEELS LIKE ] 
+
+[ CAM ]
+
+* Before High School
+I was never the most talkative person. back in the day I think I tended to ignore people
+whenever I was focused on anything else, no matter how small, and so I appeared
+a little strange to them.
+
+There was this tendon beneath my tounge that kinda kept it constrained. I didn't have a
+huge lisp? but I think there was something off about my voice. I never thought about it,
+it just wasn't in my mind, but eh that could be part of it
+
+I could barely talk to new people, or at least thats what it felt like.
+
+I played the 'cello back in the day, though I never EVER thought I was good at it.
+It was fun, it kinda expanded my horizons a bit. made me think about music more.
+but I always just felt bad when that person next to me was just so much better at their thing.
+I wanted something that I could feel good at, like SOMETHING. didn't have to be something others
+thought was cool. I just wanted to be good at something.
+
+** Reassembly
+My best friend from then had this thing he would do. He'd end up getting all these random video games
+of all kinds. he's the person who showed me terraria for the first time,
+- he showed me reassembly
+- I played it more than him
+- look at youtube channel and see what I've been posting
+that game is part of me now.
+
+Ok so this game is awesome. YOu build these simple little spaceships out of geometric shapes
+and then you fly them around and destroy other people. Fully singleplayer, cool physics, like the thrusters'
+locations determined how your ship flew, which was pretty neat.
+
+There's these things that people did every once in a while. they post some rules online, and a bunch of people
+
+
+* Year 1
+my freshman year of high school was perfectly fine. I was just this
+generic guy, not too much confidence, pretty quiet, close but small friend group,
+et cetera. I could talk to people like, a little more easily? if at all? but
+other than that I was just the same person.
+
+I liked existing. I was perfectly fine where I was. people were playing music instruments and they were
+pretty darn good at what they did. None of them ever shoved it in my face but like, I still felt bad about it.
+I think thats kind of lame of me to say!
+looking back I could have become GOOD at that cello. I could have actually been good at it. but, eh
+I just didnt practice.
+
+My school had this Engineering Academy thing. At the end of junior high I could interview for it
+and they'd choose like 50 girls and 50 boys. I didn't get in, I didn't say the right stuff during the interview
+or something.
+but what they did was 
+
+so here's where my path diverged. At the start of the new year, there's this tabling event at the school
+where a whole bunch of clubs get together and try go get new people interested
